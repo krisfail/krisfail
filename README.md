@@ -4,7 +4,7 @@
 技術に強い(自称)<br>
 <br>
 好きなもの/興味のあるもの<br>
-ゲーム:GTA5,あつ森,Project DIVA,スマブラ,ポケモン,Portal,NieR<br>
+ゲーム:GTA5,あつ森,Project DIVA,スマブラ,ポケモン,Portal,NieR,Minecraft,PSO2(最近やってない)<br>
 アニメ:SAO,とある,PSYCOPASS,このすば<br>
 アングラ寄り:淫夢,恒心,その他例のアレカテ,メーデー,Tor,P2P<br>
 その他:OSS全般,Linux,PC系,数学,暗号<br>
