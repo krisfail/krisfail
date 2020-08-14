@@ -10,4 +10,4 @@
 その他:OSS全般,Linux,PC系,数学,暗号<br>
 嫌いなもの<br>
 ここに悪意を持ってアクセスしてるお前<br>
-https://github-readme-stats.vercel.app/api?username=yuuki76&show_icons=true&theme=tokyonight
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuuki76)](https://github.com/anuraghazra/github-readme-stats)
