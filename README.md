@@ -9,4 +9,5 @@
 アングラ寄り:淫夢,恒心,その他例のアレカテ,メーデー,Tor,P2P<br>
 その他:OSS全般,Linux,PC系,数学,暗号<br>
 嫌いなもの<br>
-ここに悪意を持ってアクセスしてるお前
+ここに悪意を持ってアクセスしてるお前<br>
+https://github-readme-stats.vercel.app/api?username=yuuki76&show_icons=true&theme=tokyonight
