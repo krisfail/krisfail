@@ -1,10 +1,4 @@
-[固定用]2020-07-08<br>
-ゲーム:GTA5,あつ森,Project DIVA,スマブラ,ポケモン,Portal,NieR<br>
-アニメ:SAO,とある,PSYCOPASS,このすば<br>
-アングラ寄り:淫夢,恒心,その他例のアレカテ,メーデー,Tor,P2P<br>
-その他:OSS全般,Linux,PC系,数学<br>
-なお見当たらないアカウントがあればTwitterまで連絡してもらえれば追記します<br>
-Mail:yukimorifumi@gmail.com yuuki76.op@gmail.com yuuki76@protonmail.com<br>
+Mail:yukimorifumi@gmail.com yuuki76.op@gmail.com yuuki76@protonmail.com kris319@protonmail.com<br>
 yuuki76@cock.li kris57@hitler.rocks<br>
 Keybase:yuuki76<br>
 <br>
