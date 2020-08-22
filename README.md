@@ -11,3 +11,6 @@
 嫌いなもの<br>
 ここに悪意を持ってアクセスしてるお前<br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuuki76)](https://github.com/anuraghazra/github-readme-stats)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/yuuki76/posts.svg)](http://qiita.com/yuuki76)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/yuuki76/contributions.svg)](http://qiita.com/yuuki76)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/yuuki76/followers.svg)](http://qiita.com/yuuki76)
