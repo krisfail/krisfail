@@ -6,7 +6,7 @@ PGP:3BCC C7CF D259 7E53 44DD  964A 729B 523D 11F3 A8D7<br>
 <br>
 Homepage<br>
 <br>
-http://hqugavjuaoihobsgva3hfh5p2wbpkq3fb4xxlxszsgszucu54fbokcad.onion<br>
+http://krisc4dg3l4wnukcsttijbgzaa53nbclto7dkwinejsg5wyajt5tpbid.onion/<br>
 https://yuuki76.github.io/homepage<br>
 https://yuuki76.netlify.app<br>
 http://127.0.0.1:43110/16BY32M366k57cR5KRnCAKxXDX4PnHUVnP<br>
