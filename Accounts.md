@@ -7,18 +7,19 @@ PGP:3BCC C7CF D259 7E53 44DD  964A 729B 523D 11F3 A8D7<br>
 Homepage<br>
 <br>
 http://hqugavjuaoihobsgva3hfh5p2wbpkq3fb4xxlxszsgszucu54fbokcad.onion<br>
-yuuki76.github.io/homepage<br>
-yuuki76.netlify.app<br>
+https://yuuki76.github.io/homepage<br>
+https://yuuki76.netlify.app<br>
 http://127.0.0.1:43110/16BY32M366k57cR5KRnCAKxXDX4PnHUVnP<br>
+Freedom Hosting RE Mirror:http://kris5kix477vlnr7vpufa3vdu3ncmlor6dellplxzaoy3levwchatrqd.onion/<br>
+IPFS:https://ipfs.io/ipfs/QmfMJJutVGN6AXZefhGjo2qb7HagGGfRrkWzaEeVxJpyUp<br>
 <br>
 <br>
 Chat<br>
 Discord:kris57#7908<br>
 XMPP:yuuki76@jabb.im,yuuki76@xmpp.jp,kris57@jabb.im<br>
 Telegram:kris35L<br>
-Signal:kris57<br>
+signal:kris57<br>
 Bitmesseage:BM-NBpG6DDqokeEsvtdpwfWUuoccvya1Nto<br>
-(If this doesn't get updated, it will be discontinued.)<br>
 Tox:DA5300A656CB12D37BE75007AA764B7D4E2086E28C2BC081573BDA16ABCF535FF6A729BE7ACA<br>
 Game<br>
 Xbox:yuuki76810#8959<br>
