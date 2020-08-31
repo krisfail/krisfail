@@ -40,7 +40,7 @@ Twitter:@8A4AK,@8A4MB<br>
 (keybase.io/yuuki76/sigchain#1d0921a24b2c57fb3c2f8dbdb5a5ec0642d00ad151980787ec6fbd0523fcad400f),
 @Curve448,@PS5_Official_,@kris35L,@Erage_2<br>
 Facebook,Instagram:非公開(直接連絡して、どうぞ)<br>
-@yuuki76@mstdn.jp<br>
+@kris57@mstdn.jp<br>
 Twitch:yuuki14514<br>
 Wiki・記事投稿<br>
 Qiita:@yuuki76<br>
