@@ -3,7 +3,7 @@
 数学に強い(数検2級※ギリギリ合格)<br>
 技術に強い(自称)<br>
 <br>
-[blog](https://kris.fail/blog)<br>
+[blog](https://kris.fail)<br>
 好きなもの<br>
 Tor,P2P,分散ネットワーク,OSS全般,Linux,PC系,数学,暗号<br>
 嫌いなもの<br>
