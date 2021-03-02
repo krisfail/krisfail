@@ -14,7 +14,7 @@ Tor,P2P,分散ネットワーク,OSS全般,Linux,PC系,数学,暗号<br>
 <br>
 ![Freenet](https://img.shields.io/badge/Freenet-Stop-red)
 ![ZeroNet](https://img.shields.io/badge/ZeroNet-Working-brightgreen)
-![I2P](https://img.shields.io/badge/I2P-Stop-red)
+![I2P](https://img.shields.io/badge/I2P-Working-brightgreen)
 ![TorHS](https://img.shields.io/badge/TorHS-Working-brightgreen)
 ![Bitmessage](https://img.shields.io/badge/Bitmessage-UNUSED-orange)
 ![P2P地震速報](https://img.shields.io/badge/P2P地震速報-Working-brightgreen)
