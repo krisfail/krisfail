@@ -20,5 +20,5 @@ Tor,P2P,分散ネットワーク,OSS全般,Linux,PC系,数学,暗号<br>
 ![P2P地震速報](https://img.shields.io/badge/P2P地震速報-Working-brightgreen)
 ![IPFS](https://img.shields.io/badge/IPFS-Working-brightgreen)
 ![ArchiveWarrior](https://img.shields.io/badge/ArchiveWarrior-Working-brightgreen)
-![Nym](https://img.shields.io/badge/Nym-Working-brightgreen)
-![Loki](https://img.shields.io/badge/Loki-Working-brightgreen)
+![Nym](https://img.shields.io/badge/Nym-Stop-red)
+![Loki](https://img.shields.io/badge/Loki-Stop-red)
